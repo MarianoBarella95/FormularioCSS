@@ -53,6 +53,17 @@ h1 {
     border-radius: 5px;
     border-color: #90E0EF;
 }
+
+#email {
+    border-radius: 5px;
+    border-color: #90E0EF;
+}
+
+.email {
+    align-items: center;
+    margin-bottom: 10px;
+}
+
 .sexo {
     align-items: center;
     margin-bottom: 10px;
